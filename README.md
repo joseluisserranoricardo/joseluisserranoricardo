@@ -1,6 +1,6 @@
 # ¡Hola! Soy Jose Luis Serrano Ricardo 👋
 
-## 📊 Analista de Datos | Matemático | Especialista en Inteligencia de Negocios (BI) 
+## 📊 Analista de Datos | Matemático | Analista Inteligencia de Negocios (BI) 
 
 Soy un apasionado del análisis de datos con enfoque en transformar grandes volúmenes de información en decisiones estratégicas. Me especializo en el uso de **Excel Avanzado**, **Python**, **SQL** y **Power BI** para resolver problemas complejos.
 
