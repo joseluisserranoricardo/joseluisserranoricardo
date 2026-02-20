@@ -110,6 +110,9 @@ As a PhD Candidate in Mathematics, I bring:
 - Optimization and modeling expertise
 - Advanced mathematical foundations
 - Structured problem-solving skills
+
+My goal is to integrate mathematical rigor with real-world financial and business decision-making.
+
 ---
 
 ⭐ Thank you for visiting my profile.
