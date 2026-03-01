@@ -10,7 +10,7 @@
 
 I am a PhD Candidate in Mathematics with a strong background in Applied Mathematics and quantitative modeling. 
 
-I specialize in transforming complex data into structured, business-oriented insights. My academic training provides a rigorous analytical framework that I apply to financial analytics, credit risk assessment, and business intelligence projects.
+In my portfolio, you will find data analysis projects covering a wide range of topics, including stock price analysis, sales and profit performance across different businesses, banking predictions, movie analytics for a streaming platform, medical cost forecasting, employee retention analysis, prisoner statistics by country, marketing analytics, happiness indicators, climate data analysis, and real estate market studies.
 
 I build projects in both **English and Spanish** because I live in Mexico.
 
