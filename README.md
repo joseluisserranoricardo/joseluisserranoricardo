@@ -86,13 +86,20 @@ My repository includes projects across multiple tools and domains. Below, you wi
 ![Attrition by salary quartile](https://github.com/user-attachments/assets/4115f5b2-7dca-430e-b42f-741bc5739876)
 
 ### 🐍 Other Python Projects
-![Uploading outliers.jpg…]()
 
+![correlation matrix](https://github.com/user-attachments/assets/803d591f-34f8-4d4a-9b41-7b0656541e3d)
 
-![rating por ano](https://github.com/user-attachments/assets/1ab142a8-4fbd-4386-9d3a-09ef419d3b79)
+![smoker](https://github.com/user-attachments/assets/79165b07-7e90-424f-9ee6-020b590691ec)
+
+![distribution of charges](https://github.com/user-attachments/assets/361be098-fc85-4ee2-90f3-edf72679c96d)
 
 ![mexico top](https://github.com/user-attachments/assets/87b2b304-4ebe-4099-b7cb-7337c8ecb0ea)
 
+![residual](https://github.com/user-attachments/assets/d2207aa4-68b5-4296-bd07-fca7ff6d4dc0)
+
+![linear](https://github.com/user-attachments/assets/68fafc14-c9f0-4d6c-aec7-227efa496b7c)
+
+![ridge](https://github.com/user-attachments/assets/3d795b46-b0fc-40e6-a367-6526e6879ad4)
 
 ### 📊 Other Excel Projects
 
