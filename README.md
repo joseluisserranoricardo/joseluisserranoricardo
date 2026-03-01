@@ -77,6 +77,13 @@ My repository includes projects across multiple tools and domains. Below, you wi
 
 ![outliers](https://github.com/user-attachments/assets/a810779c-14b5-4d9b-9b92-ebc3ee0093d9)
 
+### 🗄 Advanced SQL Projects
+
+![window_function](https://github.com/user-attachments/assets/e475f550-ef06-498a-b489-83f0fcd82b8b)
+
+![cte_and_join](https://github.com/user-attachments/assets/90e0da91-a674-4e5c-9f82-6718416220e3)
+
+![Attrition by salary quartile](https://github.com/user-attachments/assets/4115f5b2-7dca-430e-b42f-741bc5739876)
 
 ### 🐍 Other Python Projects
 ![Uploading outliers.jpg…]()
