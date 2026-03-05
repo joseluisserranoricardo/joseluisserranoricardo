@@ -120,7 +120,7 @@ My repository includes projects across multiple tools and domains. Below, you wi
 
 ---
 
-### Cloud Projects
+### 🌨️ Cloud Projects
 
 ![data_cleaning](https://github.com/user-attachments/assets/5a82cead-71ee-4007-9097-6fbdfc4dada4)
 
