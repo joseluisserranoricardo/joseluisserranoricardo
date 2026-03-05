@@ -10,7 +10,7 @@
 
 I am a PhD Candidate in Mathematics with a strong background in Applied Mathematics and quantitative modeling. 
 
-In my portfolio, you will find data analysis projects covering a wide range of topics, including stock price analysis, sales and profit performance across different businesses, banking predictions, movie analytics for a streaming platform, medical cost forecasting, employee retention analysis, prisoner statistics by country, marketing analytics, happiness indicators, climate data analysis, and real estate market studies.
+In my portfolio, you will find data analysis projects covering a wide range of topics, including stock price analysis, sales and profit performance across different businesses, banking predictions, movie analytics for a streaming platform, medical cost forecasting, employee retention analysis, prisoner statistics by country, marketing analytics, happiness indicators, climate data analysis, and real estate market studies. 
 
 I build projects in both **English and Spanish** because I live in Mexico.
 
@@ -33,6 +33,10 @@ I build projects in both **English and Spanish** because I live in Mexico.
 - PostgreSQL
 - MySQL
 - Advanced SQL
+
+### Worki with cloud data platforms 
+- Google Cloud and BigQuery for data cleaning and transformation.
+- Experienced in connecting cloud data warehouses to BI tools like Power BI to build interactive dashboards and translate data into actionable business insights.
 
 ---
 
@@ -116,6 +120,14 @@ My repository includes projects across multiple tools and domains. Below, you wi
 
 ---
 
+### Cloud Projects
+
+![data_cleaning](https://github.com/user-attachments/assets/5a82cead-71ee-4007-9097-6fbdfc4dada4)
+
+![FEATURE_ENGINEERING](https://github.com/user-attachments/assets/443e0c96-d934-47a6-b776-39c58aecc15a)
+
+![dashboard](https://github.com/user-attachments/assets/4a03619b-1cae-406e-b74c-387c6b234706)
+
 ## 🧠 Academic Background
 
 As a PhD Candidate in Mathematics, I bring:
@@ -130,4 +142,11 @@ My goal is to integrate mathematical rigor with real-world financial and busines
 ---
 
 ⭐ Thank you for visiting my profile.
+
+## Some documents
+
+![power bi intermedio](https://github.com/user-attachments/assets/719f26f7-9a06-4883-9f7c-a63252ee2f24)
+
+![mma](https://github.com/user-attachments/assets/94849ff7-1a6b-4d53-8510-0ea2436cdc07)
+
 
