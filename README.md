@@ -105,6 +105,9 @@ My repository includes projects across multiple tools and domains. Below, you wi
 
 ![ridge](https://github.com/user-attachments/assets/3d795b46-b0fc-40e6-a367-6526e6879ad4)
 
+![model comparison](https://github.com/user-attachments/assets/2d1020cc-ffd8-4766-82fe-37011acd4902)
+
+
 ### 📊 Other Excel Projects
 
 ![casas](https://github.com/user-attachments/assets/a7659a98-508a-484e-85a1-21f94e810981)
@@ -149,4 +152,5 @@ My goal is to integrate mathematical rigor with real-world financial and busines
 
 ![mma](https://github.com/user-attachments/assets/94849ff7-1a6b-4d53-8510-0ea2436cdc07)
 
+![excel](https://github.com/user-attachments/assets/087136de-17e1-4616-ad2c-e66ebfde5706)
 
