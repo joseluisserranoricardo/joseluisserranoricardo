@@ -29,12 +29,12 @@ I build projects in both **English and Spanish** because I live in Mexico.
 - Exploratory Data Analysis (EDA)
 - Statistical Modeling
 
-### 🗄 Databases & SQL
+### 🗄 Databases
 - PostgreSQL
 - MySQL
-- Advanced SQL
+- NoSQL (MongoDB)
 
-### Worki with cloud data platforms 
+### Work with cloud data platforms 
 - Google Cloud and BigQuery for data cleaning and transformation.
 - Experienced in connecting cloud data warehouses to BI tools like Power BI to build interactive dashboards and translate data into actionable business insights.
 
@@ -88,6 +88,10 @@ My repository includes projects across multiple tools and domains. Below, you wi
 ![cte_and_join](https://github.com/user-attachments/assets/90e0da91-a674-4e5c-9f82-6718416220e3)
 
 ![Attrition by salary quartile](https://github.com/user-attachments/assets/4115f5b2-7dca-430e-b42f-741bc5739876)
+
+### NoSQL Projects
+
+![datos](https://github.com/user-attachments/assets/9cbfd35f-ae44-4282-be32-eadf66d0495a)
 
 ### 🐍 Other Python Projects
 
