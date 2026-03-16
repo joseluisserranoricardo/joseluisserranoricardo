@@ -152,9 +152,12 @@ My goal is to integrate mathematical rigor with real-world financial and busines
 
 ## Some documents
 
-![power bi intermedio](https://github.com/user-attachments/assets/719f26f7-9a06-4883-9f7c-a63252ee2f24)
-
 ![mma](https://github.com/user-attachments/assets/94849ff7-1a6b-4d53-8510-0ea2436cdc07)
 
-![excel](https://github.com/user-attachments/assets/087136de-17e1-4616-ad2c-e66ebfde5706)
+![0power bi intermedio](https://github.com/user-attachments/assets/61eb4513-9eed-4792-a508-5f8031a24806)
+
+![1python](https://github.com/user-attachments/assets/d0648f0a-2401-461e-bc02-f974aa940576)
+
+![excel](https://github.com/user-attachments/assets/8f6124db-7e73-48c3-8cfe-fef33565deeb)
+
 
