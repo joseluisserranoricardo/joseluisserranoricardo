@@ -1,8 +1,8 @@
 # 👋 Hi, I'm Jose Serrano
 
-🎓 PhD Candidate in Mathematics  
+🎓 PhD in Mathematics  
 🎓 M.Sc. in Applied Mathematics  
-📊 Data Analytics | Financial Modeling | Business Intelligence  
+📊 Data Analytics
 
 ---
 
